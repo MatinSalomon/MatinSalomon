@@ -1,6 +1,13 @@
 <h1 align="center"><b>Hi , Soy Martin Salomon </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-🌱 En la actualidad estoy aprendiendo y mejoranto en **Desarrollador Full-Stack**
+🌱 Estudiante de informática, apasionado por el desarrollo, la tecnología y el aprendizaje constante.
+
+Me especializo en JavaScript, con experiencia en HTML, CSS, React, Node.js y bases de datos. Me gusta trabajar en proyectos propios y aprender haciendo.
+Tengo conocimientos en estructuras de datos, lógica de programación, programación orientada a objetos y buenas prácticas de desarrollo.
+
+Me interesan especialmente las tecnologías web y el mundo del open source.
+
+
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <br>
@@ -15,7 +22,24 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-</p><br
+</p>
+
+
+<br> 
+
+<h3 align="left">Redes Sociales, Sigueme:</h3>
+<p align="left"> 
+  <a href="https://www.instagram.com/martin_salomonnn/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>  
+    
+  <a href="https://www.linkedin.com/in/martin--salomon/"> 
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+</p>
+
+------
+<br>
+
+
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
@@ -23,12 +47,3 @@
 [![](https://github-readme-stats.vercel.app/api?username=MatinSalomon&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MatinSalomon)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=MatinSalomon&theme=material-palenight)](https://github.com/MatinSalomon)
 </div>
-
-<h3>Seguime</h3>
-<a href="https://www.instagram.com/martin_salomonnn/"> 
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://www.instagram.com/martin_salomonnn/"> 
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
