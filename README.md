@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , Soy Martin Salomon </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, Soy Martin Salomon </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 🌱 Estudiante de informática, apasionado por el desarrollo, la tecnología y el aprendizaje constante.
 
