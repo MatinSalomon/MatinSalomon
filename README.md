@@ -26,13 +26,7 @@ Tengo conocimientos en estructuras de datos, lógica de programación, programac
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br>Linux</td>
 </tr></table>
 
-🚀 Proyectos destacados
-ProyectoTecnologíasDemoREST Countries ExplorerReact · React Router · TailwindCSS · Context API · ViteVer demoTodo AppReact · CSS Grid · Flexbox · CSS Custom PropertiesVer demoPortfolio personalNext.js · TailwindCSS · VercelVer demo
-
 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatinSalomon&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinSalomon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
