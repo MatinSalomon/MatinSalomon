@@ -29,7 +29,7 @@
  
 | | |
 |---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatinSalomon&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinSalomon&layout=compact&theme=tokyonight&hide_border=true&langs_count=6) |
+| ![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=MatinSalomon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MatinSalomon&layout=compact&theme=tokyonight&hide_border=true&langs_count=6) |
  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatinSalomon&theme=tokyonight&hide_border=true&locale=es)
  
