@@ -1,49 +1,45 @@
-<h1 align="center">Martin Ignacio Salomon</h1>
-<h3 align="center">Desarrollador Frontend</h3>
-<p align="center">
-  <a href="mailto:salomonmartin21@gmail.com">salomonmartin21@gmail.com</a> •
-  <a href="https://www.linkedin.com/in/martin--salomon/">LinkedIn</a> •
-  <a href="https://martin-salomon.vercel.app/">Portfolio</a> •
-  Córdoba, Argentina
-</p>
+# Martin Ignacio Salomon
 
-🎓 Estudiante de Ingeniería en Sistemas de la Información en la UTN, apasionado por el desarrollo frontend y el aprendizaje constante.
-Me especializo en JavaScript y React, con experiencia construyendo interfaces web modernas, accesibles y responsivas. Me gusta trabajar en proyectos propios, aprender haciendo y explorar buenas prácticas de desarrollo.
-Tengo conocimientos en estructuras de datos, lógica de programación, programación orientada a objetos y el ecosistema de herramientas modernas del frontend.
+### 🚀 Frontend Developer
 
-🛠️ Tecnologías y herramientas
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br>HTML5</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><br>CSS3</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br>JavaScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br>React</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" width="40" height="40"/><br>React Router</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br>Tailwind</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/><br>Bootstrap</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/><br>Sass</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br>Git</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" height="40"/><br>Vite</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br>MySQL</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br>Linux</td>
-  </tr>
-</table>
+📧 salomonmartin21@gmail.com • [LinkedIn](https://www.linkedin.com/in/martin--salomon/) • [Portfolio](https://martin-salomon.vercel.app/) • Córdoba, Argentina
 
-📊 GitHub Stats
+🎓 Estudiante de Ingeniería en Sistemas en la UTN. Me especializo en JavaScript y React, construyendo interfaces web modernas, accesibles y responsivas.
+
+---
+
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatinSalomon&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinSalomon&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinSalomon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinSalomon&theme=tokyonight&hide_border=true" />
 </p>
 
-📬 Contacto
-<p align="left">
-  <a href="https://www.linkedin.com/in/martin--salomon/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/martin_salomonnn/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin--salomon/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/martin_salomonnn/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://martin-salomon.vercel.app/)
