@@ -26,16 +26,13 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatinSalomon&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinSalomon&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinSalomon&theme=tokyonight&hide_border=true" />
-</p>
-
+ 
+| | |
+|---|---|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatinSalomon&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinSalomon&layout=compact&theme=tokyonight&hide_border=true&langs_count=6) |
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatinSalomon&theme=tokyonight&hide_border=true&locale=es)
+ 
 ---
 
 ## 📬 Contact
