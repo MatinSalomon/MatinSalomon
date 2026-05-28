@@ -31,7 +31,8 @@ Tengo conocimientos en estructuras de datos, lógica de programación, programac
 
 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatinSalomon&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatinSalomon&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinSalomon&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinSalomon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
